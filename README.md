@@ -1,2 +1,2 @@
-# DIO-desafio-primeiro-reposit-rio
+# DIO-desafio-primeiro-repositório
 Desafio DIO - primeiro repositório
